@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "2157f3c6-6789-4bc0-9753-d3510345d2c6",
+		"_postman_id": "b94022a3-81f1-4cae-a40f-07be5de91c53",
 		"name": "FastAPI + OCR",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -94,7 +94,7 @@
 					"mode": "formdata",
 					"formdata": [
 						{
-							"key": "",
+							"key": "image",
 							"type": "file",
 							"src": []
 						}

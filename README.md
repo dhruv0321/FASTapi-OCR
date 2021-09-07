@@ -30,6 +30,7 @@ The goal of the task is to build an API that extracts text from a text image dat
     - get list of all the documents avaiable to parse
     - parse a document to text
     - add image to be parsed
+        - to add image use the body field
 
 ### Instructions to get this working
     - make a virtual environment and install all the python packages using the following commands
