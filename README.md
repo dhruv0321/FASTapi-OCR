@@ -39,4 +39,4 @@ The goal of the task is to build an API that extracts text from a text image dat
         - source myvenv/bin/activate
         - pip install -r requirement.txt
     - Install postman and open the postman.json file to get access to all the API    
-    - " unicorn main:app --reload " to run the server
+    - " uvicorn main:app --reload " to run the server
