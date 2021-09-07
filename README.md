@@ -33,7 +33,8 @@ The goal of the task is to build an API that extracts text from a text image dat
         - to add image use the body field
 
 ### Instructions to get this working
-    - make a virtual environment and install all the python packages using the following commands
+    - make a virtual environment and install all the python packages 
+      using the following commands
         - pip install virtualenv
         - virtualenv env
         - source myvenv/bin/activate
